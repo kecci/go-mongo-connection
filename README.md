@@ -1,1 +1,1 @@
-# mongo-connection-go
+# go-mongo-connection
