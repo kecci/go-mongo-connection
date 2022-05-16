@@ -1,4 +1,4 @@
-module github.com/kecci/mongo-connection-go
+module github.com/kecci/go-mongo-connection
 
 go 1.15
 
